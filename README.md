@@ -1,6 +1,6 @@
 # -Quick-Dictionary-
 速成輸入法字典
-Quick(Simplified Cangjie) Dictionary
+Quick(Simplified Cangjie) Dictionary in Python
 
 
 
